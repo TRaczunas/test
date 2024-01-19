@@ -15,11 +15,15 @@ Lista numeryczna
 1. jeden
 2. dwa
 3. trzy
+   - punkt pierwszy
+   - punkt drugi
 
 Lista nienumeryczna
 - taki
 - tam
 - przykład
+  + podlista
+  + podlista
 
 ```
 a = int(input())
