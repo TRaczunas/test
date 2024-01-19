@@ -31,5 +31,9 @@ else:
 
 kod programu: `print("test)` drukuje test
 
-![thumbs up picture](https://freepngimg.com/thumb/ok/4-2-ok-download-png.png "thumbs up")
+![thumbs up picture](https://freepngimg.com/thumb/ok/4-2-ok-download-png.png)
+
+
+
+
 
