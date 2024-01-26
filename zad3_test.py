@@ -1,5 +1,5 @@
 import unittest
-from my_module import isprime
+from zad3 import isprime
 
 class TestMyModule(unittest.TestCase):
 
