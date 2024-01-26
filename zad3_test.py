@@ -1,4 +1,5 @@
 import unittest
+from my_module import isprime
 
 class TestMyModule(unittest.TestCase):
 
